@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	wsURL = "jetstream1.us-west.bsky.network"
+	wsURL = "wss://jetstream1.us-west.bsky.network/subscribe"
 )
 
 type Record struct {
