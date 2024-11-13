@@ -13,6 +13,7 @@ Before you start, make sure you have Go (1.23+) installed, (it may work for olde
 To start the program, run:
 
 ```bash
+go get
 go run main.go
 ```
 
