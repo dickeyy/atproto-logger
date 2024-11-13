@@ -1,4 +1,4 @@
-module github.com/dickeyy/pds-monit
+module github.com/dickeyy/atproto-logger
 
 go 1.23.2
 
